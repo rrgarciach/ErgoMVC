@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<consignacion>
+  <key>id_consignacion</key>
+  <id_consignacion>1</id_consignacion>
+  <cliente>999</cliente>
+  <renglones>
+    <renglon clase="renglones">
+      <key>id_producto</key>
+      <id_producto>10753</id_producto>
+      <clave>BAP-125</clave>
+      <descripcion>Barreta de punta de 7/8" x 125 cm</descripcion>
+      <marca>Truper</marca>
+      <unidad>Pieza</unidad>
+      <precio>12.99</precio>
+      <lleva_iva>1</lleva_iva>
+      <imagen>picture_not_found</imagen>
+      <cantidad>100</cantidad>
+      <descuento_cliente>0</descuento_cliente>
+      <descuento_adicional>0</descuento_adicional>
+      <promocion>0</promocion>
+      <estatus>0</estatus>
+    </renglon>
+    <renglon clase="renglones">
+      <key>id_producto</key>
+      <id_producto>22606</id_producto>
+      <clave>BAP-125</clave>
+      <descripcion>Barreta de punta de 7/8" x 125 cm</descripcion>
+      <marca>Truper</marca>
+      <unidad>Pieza</unidad>
+      <precio>12.99</precio>
+      <lleva_iva>1</lleva_iva>
+      <imagen>picture_not_found</imagen>
+      <cantidad>0</cantidad>
+      <descuento_cliente>0</descuento_cliente>
+      <descuento_adicional>0</descuento_adicional>
+      <promocion>0</promocion>
+      <estatus>0</estatus>
+    </renglon>
+  </renglones>
+  <fecha>2013-08-22 00:08:00</fecha>
+  <notas>NOTAS CARGADAS DESDE PHP.</notas>
+</consignacion>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pedido>
+    <key>id_pedido</key>
+    <id_pedido></id_pedido>
+    <cliente>9000</cliente>
+    <direcciones>
+        <direccion>
+            <id_direccion></id_direccion>
+            <calle>calle</calle>
+            <numero>999</numero>
+            <colonia>colonia</colonia>
+            <cp>31000</cp>
+            <localidad>Chihuahua</localidad>
+            <ciudad>Chihuahua</ciudad>
+            <estado>Chihuahua</estado>
+            <x>28.296295</x>
+            <y>-105.448408</y>
+        </direccion>
+    </direcciones>
+    <productos>
+        <producto>
+            <key>id_producto</key>
+            <id_producto>11399</id_producto>
+            <descripcion>Juego de brocas de alta velocidad, 10 piezas</descripcion>
+            <caja>3</caja>
+            <master>36</master>
+            <unidad>Pieza</unidad>
+            <ean>7501206671429</ean>
+            <precio>105</precio>
+            <lleva_iva>1</lleva_iva>
+            <imagen>picture_not_found</imagen>
+            <estante></estante>
+            <anaquel></anaquel>
+            <id_proveedor></id_proveedor>
+        </producto>
+        <producto>
+            <key>id_producto</key>
+            <id_producto>22606</id_producto>
+            <descripcion>Pinza pesada de electricista 8", Pretul</descripcion>
+            <caja>6</caja>
+            <master>60</master>
+            <unidad>Pieza</unidad>
+            <ean>7501206644812</ean>
+            <precio>58</precio>
+            <lleva_iva>1</lleva_iva>
+            <imagen>picture_not_found</imagen>
+            <estante></estante>
+            <anaquel>0</anaquel>
+            <id_proveedor>0</id_proveedor>
+        </producto>
+        <producto>
+            <key>id_producto</key>
+            <id_producto>10012</id_producto>
+            <descripcion>Abrazadera 20 de acero inoxidable, blister con 2 pzas</descripcion>
+            <caja>12</caja>
+            <master>72</master>
+            <unidad>Pieza</unidad>
+            <ean>7501206638835</ean>
+            <precio>12</precio>
+            <lleva_iva>1</lleva_iva>
+            <imagen>picture_not_found</imagen>
+            <estante></estante>
+            <anaquel></anaquel>
+            <id_proveedor></id_proveedor>
+        </producto>
+    </productos>
+    <vendedor>100</vendedor>
+    <fecha>2013-08-22 00:08:00</fecha>
+    <estatus>NA</estatus>
+    <notas>NOTAS CARGADAS DESDE PHP.</notas>
+</pedido>

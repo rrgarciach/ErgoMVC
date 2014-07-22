@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<producto clase="productos">
+  <key>id_producto</key>
+  <id_producto>22606</id_producto>
+  <clave>218-P</clave>
+  <descripcion>Pinza pesada de electricista 8", Pretul</descripcion>
+  <marca>Pretul</marca>
+  <caja>6</caja>
+  <master>60</master>
+  <unidad>Pieza</unidad>
+  <ean>7501206644812</ean>
+  <ean_caja></ean_caja>
+  <ean_master></ean_master>
+  <precio>58</precio>
+  <lleva_iva>1</lleva_iva>
+  <imagen>picture_not_found</imagen>
+  <estante> </estante>
+  <anaquel>0</anaquel>
+  <id_proveedor>0</id_proveedor>
+  <estatus>disponible</estatus>
+</producto>

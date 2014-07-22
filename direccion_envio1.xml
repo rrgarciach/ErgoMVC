@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<direcciones>
+    <direccion clase="direccion_envio>
+      <key>id_direccion</key>
+      <id_direccion>1</id_direccion>
+      <calle>guancone</calle>
+      <numero>999</numero>
+      <colonia>colonita robles</colonia>
+      <cp>31000</cp>
+      <localidad>Chihuahua</localidad>
+      <ciudad>Chihuahua</ciudad>
+      <estado>Chihuahua</estado>
+      <x>28.296295</x>
+      <y>-105.448408</y>
+    </direccion>
+</direcciones>

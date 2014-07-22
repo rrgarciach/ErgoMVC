@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<globales>
+    <iva>0.16</iva>
+    <dolar>13.4</dolar>
+    <promociones>true</promociones>
+    <valor_promociones>1</valor_promociones>
+    <sobreprecios>
+        <default>
+            <propocional>1</propocional>
+            <aditivo>0</aditivo>
+            <promociones>true</promociones>
+            <valor_promociones>1</valor_promociones>
+        </default>
+        <mayoreo>
+            <propocional>1.03092783504</propocional>
+            <aditivo>0</aditivo>
+            <promociones>true</promociones>
+            <valor_promociones>1</valor_promociones>
+        </mayoreo>
+        <menudeo>
+            <propocional>1.034019232757729</propocional>
+            <aditivo>0</aditivo>
+            <promociones>true</promociones>
+            <valor_promociones>1</valor_promociones>
+        </menudeo>
+        <online>
+            <propocional>1.215953307392996</propocional>
+            <aditivo>3</aditivo>
+            <promociones>true</promociones>
+            <valor_promociones>1</valor_promociones>
+        </online>
+    </sobreprecios>
+</globales>

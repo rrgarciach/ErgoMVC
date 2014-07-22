@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<topbannerc>
+	<section>
+		<text>Configuracion</text>
+		<src>profile-config.php</src>
+		<onclick></onclick>
+	</section>
+	<section>
+		<text>Sesion</text>
+		<src>#</src>
+		<onclick></onclick>
+	</section>
+</topbannerc>

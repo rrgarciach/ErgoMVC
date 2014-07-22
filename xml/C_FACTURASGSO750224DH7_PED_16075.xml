@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Comprobante xmlns="http://www.sat.gob.mx/cfd/2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sat.gob.mx/cfd/2 http://www.sat.gob.mx/sitio_internet/cfd/2/cfdv22.xsd" version="2.2" serie="PED" folio="16075" fecha="2013-08-08T11:39:34" sello="s3tZWGHTs6FxwZq9lV3bcqgB1CaDPliTpI+PMFzKuuSVZxoRZBenZUlfq0xEKitcI3OEFTpyyw6p9RR0s731tGHvgqgeGYlGFHsBQhWEHC4wqdZ6Sm/kYvpMInEN5MSvV9vlwazYikXIS9GK2b5SwPyDFEznIJvukwWDHUkidzg=" noAprobacion="283986" anoAprobacion="2010" formaDePago="PAGO EN UNA SOLA EXHIBICION" noCertificado="00001000000202401018" certificado="MIIEgzCCA2ugAwIBAgIUMDAwMDEwMDAwMDAyMDI0MDEwMTgwDQYJKoZIhvcNAQEF
+BQAwggGVMTgwNgYDVQQDDC9BLkMuIGRlbCBTZXJ2aWNpbyBkZSBBZG1pbmlzdHJh
+Y2nDs24gVHJpYnV0YXJpYTEvMC0GA1UECgwmU2VydmljaW8gZGUgQWRtaW5pc3Ry
+YWNpw7NuIFRyaWJ1dGFyaWExODA2BgNVBAsML0FkbWluaXN0cmFjacOzbiBkZSBT
+ZWd1cmlkYWQgZGUgbGEgSW5mb3JtYWNpw7NuMSEwHwYJKoZIhvcNAQkBFhJhc2lz
+bmV0QHNhdC5nb2IubXgxJjAkBgNVBAkMHUF2LiBIaWRhbGdvIDc3LCBDb2wuIEd1
+ZXJyZXJvMQ4wDAYDVQQRDAUwNjMwMDELMAkGA1UEBhMCTVgxGTAXBgNVBAgMEERp
+c3RyaXRvIEZlZGVyYWwxFDASBgNVBAcMC0N1YXVodMOpbW9jMRUwEwYDVQQtEwxT
+QVQ5NzA3MDFOTjMxPjA8BgkqhkiG9w0BCQIML1Jlc3BvbnNhYmxlOiBDZWNpbGlh
+IEd1aWxsZXJtaW5hIEdhcmPDrWEgR3VlcnJhMB4XDTEyMTEyMjE3MTU0MFoXDTE2
+MTEyMjE3MTU0MFowgcQxITAfBgNVBAMTGEdBUyBFTCBTT0JSQU5URSBTQSBERSBD
+VjEhMB8GA1UEKRMYR0FTIEVMIFNPQlJBTlRFIFNBIERFIENWMSEwHwYDVQQKExhH
+QVMgRUwgU09CUkFOVEUgU0EgREUgQ1YxJTAjBgNVBC0THEdTTzc1MDIyNERINyAv
+IFJVR0M2MjExMTM5RzgxHjAcBgNVBAUTFSAvIFJVR0M2MjExMTNIQ0hCUlIwMDES
+MBAGA1UECxMJQ0hJSFVBSFVBMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC4
+BFir0GH4MlSV4mIBj2xz7N2D5u6YRvdnLbWICVAKUAqS31x8j3QYUscKcIgmd1qs
+Eu6qU9+s4HqNmz7ful7K03Z9oUPHxOM9vFjaNkfazZMp3g3L01B+E0kpvSwY3NlJ
+nsXkHEtA6Suud70C1eU9Q16P32vwfla4/JN85APx3wIDAQABox0wGzAMBgNVHRMB
+Af8EAjAAMAsGA1UdDwQEAwIGwDANBgkqhkiG9w0BAQUFAAOCAQEAgqduc1SmuOsw
+OdXmmFouCyRuhgoucbiWju3znxINGL+vorfXpHZ20pTQyR4fDCAnlR92T27Lo8IH
+jDYHEIR+g+Kt72bny9UEdPyPgL9v/xWESXXYMdhv9Q3BAWdnysI25Fr2QFUHb+VD
+YNZw/GYSBgxkaAf0kFWOxdONOZIh+CGjUv0fJT9Q661QN3KxKnRubaJgVvWL+7Fh
+05VZBNQMgk9KnEbeDkDJ1LEwmflHNYEYo4M9rACgwjMEIN3ruURvSt3XW64LDceq
+d1NZC0j0tgxCvkWTeqAxGgTmz9FmjL0G6epoTESISj86rR1ZZGs1brYth8mExTKj
+CI+A4N10+Q==" subTotal="328.71" total="381.30" tipoDeComprobante="ingreso" metodoDePago="Efectivo" LugarExpedicion="CHIHUAHUA CHIHUAHUA"><Emisor rfc="GSO750224DH7" nombre="GAS EL SOBRANTE S.A. DE C.V."><DomicilioFiscal calle="AV. UNIVERSIDAD" noExterior="1500" noInterior="101" colonia="SANTO NIÑO" localidad="CHIHUAHUA" municipio="CHIHUAHUA" estado="CHIHUAHUA" pais="MEXICO" codigoPostal="31200"/><RegimenFiscal Regimen="REGIMEN GENERAL DE LEY PERSONAS MORALES"/></Emisor><Receptor rfc="GACR8502201W3" nombre="RUY RODRIGO GARCÍA CHAVEZ"><Domicilio calle="CALLE J. M. RATKAY" noExterior="3602" colonia="JARDINES DE SAN FRANCISCO" localidad="CHIHUAHUA" municipio="CHIHUAHUA" estado="CHIHUAHUA" pais="MEXICO" codigoPostal="31115"/></Receptor><Conceptos><Concepto cantidad="1" unidad="PIEZA" descripcion="CILINDRO 30KG DE GAS LP" valorUnitario="328.7069" importe="328.71"/></Conceptos><Impuestos totalImpuestosTrasladados="52.59"><Traslados><Traslado impuesto="IVA" tasa="16.00" importe="52.59"/></Traslados></Impuestos></Comprobante>

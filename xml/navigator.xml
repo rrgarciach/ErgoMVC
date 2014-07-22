@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<nav>
+	<general>
+		<section>
+			<text>PROMOCIONES DEL MES</text>
+			<src>#</src>
+			<onclick></onclick>
+		</section>
+		<section>
+			<text>CATALOGO EN LINEA</text>
+			<src>#</src>
+			<onclick></onclick>
+		</section>
+	</general>
+	<contacto>
+		<section>
+			<text>ATENCION A CLIENTES</text>
+			<src>#</src>
+			<onclick></onclick>
+		</section>
+		<section>
+			<text>SOPORTE TECNICO</text>
+			<src>#</src>
+			<onclick></onclick>
+		</section>
+	</contacto>
+	<vendor>
+		<section>
+			<text>CAPTURAR PEDIDOS</text>
+			<src>operative-orders.php</src>
+			<onclick></onclick>
+		</section>
+	</vendor>
+	<admin>
+		<section>
+			<text>CMS PEDIDOS</text>
+			<src>cms-orders.php</src>
+			<onclick></onclick>
+		</section>
+		<section>
+			<text>CMS POST</text>
+			<src>#</src>
+			<onclick></onclick>
+		</section>
+		<section>
+			<text>CMS CLIENTES</text>
+			<src>cms-customers.php</src>
+			<onclick></onclick>
+		</section>
+		<section>
+			<text>CMS USUARIOS</text>
+			<src>#</src>
+			<onclick></onclick>
+		</section>
+	</admin>
+	<customer>
+		<section>
+			<text>CAPTURAR PEDIDO</text>
+			<src>customers-orders.php?step=products</src>
+			<onclick></onclick>
+		</section>
+		<section>
+			<text>MIS PEDIDOS</text>
+			<src>customers-orders.php?step=myorders</src>
+			<onclick></onclick>
+		</section>
+	</customer>
+</nav>

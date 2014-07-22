@@ -1,0 +1,60 @@
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <div id="vista-cliente-lista"></div>
+        <div id="vista-cliente-captura"></div>
+        <div id="vista-cliente-elemento">
+            <div id="googleMap" style="width:380px;height:380px;"></div>
+            <input type="number" id="codigo-cliente" />
+            <input type="button" value="Abrir lista..." id="abrir-lista-clientes" />
+            <br />
+            <label for="nombre" class="leyenda">Nombre:</label>
+            <br />
+            <input type="text" placeholder="Nombre" size="40" id="nombre" disabled/>
+            <br />
+            <label class="leyenda">Dirección:</label>
+            <br />
+            <label class="leyenda">Calle y número:</label>
+            <br />
+            <input type="text" placeholder="Calle" size="40" id="calle" disabled/>
+            <input type="text" placeholder="Número" size="6" id="numero" disabled/>
+            <br />
+            <label class="leyenda">Colonia y CP:</label>
+            <br />
+            <input type="text" placeholder="Colonia" size="40" id="colonia" disabled/>
+            <input type="text" placeholder="CP" size="6" id="cp" disabled/>
+            <br />
+            <label class="leyenda">Localidad, ciudad y estado:</label>
+            <br />
+            <input type="text" placeholder="Localidad" id="localidad" disabled/>
+            <input type="text" placeholder="Ciudad" id="ciudad" disabled/>
+            <input type="text" placeholder="Estado" id="estado" disabled/>
+            <br />
+            <label for="descuento" class="leyenda">Descuento:</label>
+            <br />
+            <input type="text" placeholder="descuento" size="4" id="descuento" disabled/>% 
+<!--            <input type="text" placeholder="x" size="11" id="x" disabled/>-->
+            <!--<input type="text" placeholder="y" size="11" id="y" disabled/>-->
+            <br />
+            <label class="leyenda">Teléfonos:</label>
+            <br />
+            <input type="text" placeholder="teléfono 1" size="12" id="telefono1" disabled/>
+            <input type="text" placeholder="teléfono 2" size="12" id="telefono2" disabled/>
+            <br />
+            <label class="leyenda">Correo electrónico:</label>
+            <br />
+            <input type="text" placeholder="email 1" size="40" id="email1" disabled/>
+            <br />
+            <input type="text" placeholder="email 2" size="40" id="email2" disabled/>
+        </div>
+        <div id="vista-cliente-edicion"></div>
+    </body>
+</html>

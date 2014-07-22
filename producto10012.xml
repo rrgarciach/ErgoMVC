@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<producto>
+  <key>id_producto</key>
+  <id_producto>10012</id_producto>
+  <descripcion>Abrazadera 20 de acero inoxidable, blister con 2 pzas</descripcion>
+  <caja>12</caja>
+  <master>72</master>
+  <unidad>Pieza</unidad>
+  <ean>7501206638835</ean>
+  <precio>12</precio>
+  <lleva_iva>1</lleva_iva>
+  <imagen>picture_not_found</imagen>
+  <estante></estante>
+  <anaquel></anaquel>
+  <id_proveedor></id_proveedor>
+</producto>

@@ -1,0 +1,118 @@
+<!-- Begin Main -->
+<div id="main" class="shell">
+    <!-- Begin Content -->
+    <div id="content">
+        <div class="pedidos-captura">
+            <div id="dialog-mensaje"></div>
+            <div id="dialog-listado-clientes" title="Clientes:">
+                <form>
+                    <input type="text" placeholder="Código" value="99" size="6" id="buscar" />
+                    <div id="resultados">bla bla</div>
+                </form>
+            </div>
+            <div id="dialog-productos" title="Productos">
+                <div id="productos-encontrados">
+                </div>
+            </div>
+            <form id="wizard" method="post">
+                                <fieldset>
+                                    <legend>1. Datos del cliente</legend>
+                                    <div id="vista-cliente-elemento"></div>
+                                </fieldset>
+                <fieldset>
+                    <legend>2. Productos a incluir</legend>
+                    <label class="input-type" for="input-type" class="leyenda" ><strong>abc</strong></label>
+                    <input class="input-type" type="checkbox" id="input-type" value="123">
+                    <label class="input-type" for="input-type" class="leyenda" ><strong>123</strong></label>
+                    <input type="number" id="input-buscar-productos-linea">
+                    <input type="button" value="Agregar" id="button-buscar-productos-linea" />
+                    <input type="number" id="input-buscar-productos-mosaicos" />
+                    <input type="button" value="Buscar" id="button-buscar-productos-mosaicos" />
+                    <!--<label for="input-type" class="leyenda">Buscar</label>-->
+                    <input type="checkbox" id="busqueda-type" value="linea" />
+                    <!--<label for="input-type" class="leyenda">Agregar</label>-->
+                    <label for="check-detalle" class="leyenda">Detalle:</label>
+                    <input type="checkbox" id="check-detalle" value="" />
+                    <table id="list2"></table>
+                    <div id="pager2"></div>
+<!--                    <div id="myOpene"><button id="myOpener">hola</button></div>
+                    <p id="texto">clicame</p>-->
+                    <!--                    <span class="ui-widget-header ui-corner-top ui-helper-clearfix">holsadsadsadsadasds    a</span>-->
+                    <div class="vista-linea renglones">
+                        <table class="tablesorter">
+                            <thead>
+                                <tr>
+                                    <th class="ui-widget-header" width="15"></th>
+                                    <th class="ui-widget-header ocultable" ></th>
+                                    <th class="ui-widget-header" width="50">CÓDIGO</th>
+                                    <th class="ui-widget-header descripciones" >DESCRIPCION</th>
+                                    <th class="ui-widget-header" width="20">CANT.</th>
+                                    <th class="ui-widget-header" >P.U.</th>
+                                    <th class="ui-widget-header abatible">PROMO. %</th>
+                                    <th class="ui-widget-header abatible">PROMO.</th>
+                                    <th class="ui-widget-header abatible">DESC. 1 %</th>
+                                    <th class="ui-widget-header abatible">DESC. 1</th>
+                                    <th class="ui-widget-header abatible">DESC. 2 %</th>
+                                    <th class="ui-widget-header abatible">DESC. 2</th>
+                                    <th class="ui-widget-header ocultable">TOTAL DESCUENTOS</th>
+                                    <th class="ui-widget-header">IMPORTE</th>
+                                    <th class="ui-widget-header">I.V.A.</th>
+                                    <th class="ui-widget-header">SUBTOTAL</th>
+                                    <th class="ui-widget-header"></th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="vista-linea vista-linea-total totales">
+                        <table>
+                            <tbody>
+                                <tr>
+                                    <th class="ui-widget-header" >SUBTOTAL IMPORTE:</th>
+                                    <td id="subtotal">$ 0.00</td>
+                                </tr>
+                                <tr>
+                                    <th class="ui-widget-header" >SUBTOTAL I.V.A.</th>
+                                    <td id="iva">$ 0.00</td>
+                                </tr>
+                                <tr>
+                                    <th class="ui-widget-header" >TOTAL:</th>
+                                    <td id="total">$ 0.00</td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                    <div>
+                        <a id="button-guardar-xml" href="_controlador/pedidos_controlador.php?f=ajaxGuardarPedidoXML" target="_blank">Guardar Pedido como XML</a>
+                    </div>
+                </fieldset>
+
+                <fieldset>
+                    <legend>3. Notas del pedido</legend>
+
+                    <label>Fecha:</label>
+                    <input type="text" placeholder="fecha" id="datepicker" />
+
+                    <label>Site:</label>
+                    <input type="text" name="site" size="40" />
+                </fieldset>
+
+                <fieldset>
+                    <legend>4. Dirección de envío</legend>
+
+                    <label>Fecha:</label>
+                    <input type="text" placeholder="fecha" />
+
+                    <label>Site:</label>
+                    <input type="text" name="site" size="40" />
+                </fieldset>
+            </form><br/>
+            <div id="display_results"></div>
+
+        </div>
+    </div>
+    <!-- End Content -->
+    <div class="cl">&nbsp;</div>
+</div>
+<!-- End Main -->

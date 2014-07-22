@@ -1,0 +1,48 @@
+<!--<div id="facebox" style="top: 94.8px; left: 621.5px;">-->
+<div class="popup">
+    <div class="content">
+        <div class="loginwindow">
+            <div id="window">
+                <form name="recover" method="post" action="login.php"> 
+                    <input type="hidden" name="login" value="recover">
+                </form>
+                <br/>
+                <img src="images/banner_login_window.jpg">
+                <div>
+                    <h1>Iniciar Sesión</h1>
+                    <hr>
+                </div>
+                <div>
+                    <h2>Escriba su nombre de usuario y contraseña para iniciar sesión:</h2>
+                </div>
+                <div class="login">
+                    <form name="login" method="post" action="login.php" onsubmit="return validateForm()"> 
+                        <input type="hidden" name="login" value="login">
+
+                        <p>Nombre de usuario:</p>
+
+                        <input type="text" name="user" id="maininput">
+
+                        <p>Clave o contraseña:</p>
+
+                        <input type="password" name="password">
+                        <br/>
+                        <br/>
+                        <button type="submit" value="INICIAR SESION"><img src="images/customer_submit_white.png" alt="Iniciar Sesión">INICIAR SESION</button>
+                    </form>
+                </div>
+                <hr>
+                <div>
+                    <p>
+                        ¿Olvido su contraseña? <a href="login.php" onclick="javascript:document.recover.submit();
+                            return false;">Haga clíc aquí.</a>
+                        <br/>
+                        ¿No tiene una cuenta de usuario? <strong>Regístrese ahora.</strong>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>        
+    <a href="#" class="close"><img src="facebox/closelabel.png" title="close" class="close_image"></a>
+</div>    
+<!--</div>-->

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pedido clase="pedidos">
+  <key>id_pedido</key>
+  <id_pedido>1</id_pedido>
+  <id_cliente>1234</id_cliente>
+  <direccion_envio>
+    <direccion clase="direccion_envio">
+      <key>id_direccion</key>
+      <id_direccion>1</id_direccion>
+      <calle>guancone</calle>
+      <numero>999</numero>
+      <colonia>colonita robles</colonia>
+      <cp>31000</cp>
+      <localidad>Chihuahua</localidad>
+      <ciudad>Chihuahua</ciudad>
+      <estado>Chihuahua</estado>
+      <x>28.296295</x>
+      <y>-105.448408</y>
+    </direccion>
+  </direccion_envio>
+  <renglones>
+    <renglon clase="renglones">
+      <key>id_producto</key>
+      <id_producto>11399</id_producto>
+      <clave>XXX</clave>
+      <descripcion>Juego de brocas de alta velocidad, 10 piezas</descripcion>
+      <marca>Truper</marca>
+      <unidad>Pieza</unidad>
+      <precio>105</precio>
+      <lleva_iva>1</lleva_iva>
+      <imagen>picture_not_found</imagen>
+      <cantidad>6</cantidad>
+      <descuento_cliente></descuento_cliente>
+      <descuento_adicional></descuento_adicional>
+      <promocion></promocion>
+      <estatus>capturado</estatus>
+    </renglon>
+  </renglones>
+  <id_vendedor>100</id_vendedor>
+  <fecha>2013-08-22 00:08:00</fecha>
+  <estatus>NA</estatus>
+  <estatus_cobranza>POR COBRAR</estatus_cobranza>
+  <saldo>0</saldo>
+  <metodo_pago></metodo_pago>
+  <referencia_pago></referencia_pago>
+  <notas>NOTAS CARGADAS DESDE PHP.</notas>
+</pedido>

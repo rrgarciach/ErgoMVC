@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pedido>
+  <key>id_pedido</key>
+  <id_pedido>1</id_pedido>
+  <cliente>999</cliente>
+  <productos>
+    <producto>
+      <key>id_producto</key>
+      <id_producto></id_producto>
+      <descripcion></descripcion>
+      <caja></caja>
+      <master></master>
+      <unidad></unidad>
+      <ean></ean>
+      <precio></precio>
+      <lleva_iva></lleva_iva>
+      <imagen></imagen>
+      <estante></estante>
+      <anaquel></anaquel>
+      <id_proveedor></id_proveedor>
+    </producto>
+    <producto>
+      <key>id_producto</key>
+      <id_producto></id_producto>
+      <descripcion></descripcion>
+      <caja></caja>
+      <master></master>
+      <unidad></unidad>
+      <ean></ean>
+      <precio></precio>
+      <lleva_iva></lleva_iva>
+      <imagen></imagen>
+      <estante></estante>
+      <anaquel></anaquel>
+      <id_proveedor></id_proveedor>
+    </producto>
+  </productos>
+  <vendedor>100</vendedor>
+  <fecha>2013-08-22 00:08:00</fecha>
+  <notas>NOTAS CARGADAS DESDE PHP.</notas>
+</pedido>
